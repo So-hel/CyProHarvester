@@ -1,2 +1,54 @@
-# CyProHarvester
-CyProHarvester is an advanced open-source cybersecurity research hub. Explore 500+ offensive &amp; defensive project blueprints, from IoT hacking to cloud forensics. Features a futuristic cyber-glass UI, an AI Architect for custom ideas, and saved project tracking. Licensed under GNU GPLv3. Designed by Sohel for the next gen of cyber talent.
+<div align="center">
+  
+# 🛡️ CyProHarvester (CPH)
+ Harvesting Cyber Ideas for the Next Generation
+ ![Uploading CyPoHarvester.png…]()
+
+[![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://so-hel.github.io/CyProHarvester/)
+[![License](https://img.shields.io/badge/license-GPLv3-green)](LICENSE)
+
+</div>
+
+-------------------------------------------------------------------------------
+## 🚀 Overview
+**CyProHarvester is an advanced OSINT & cybersecurity research hub offering 500+ curated project blueprints with a futuristic Cyber-Glass UI and AI-powered idea generation.**
+
+-------------------------------------------------------------------------------
+## 🔑 Features
+- 500+ Offensive & Defensive project ideas
+- AI Architect for custom project generation
+- Interactive dashboard with charts
+- Local storage for saved projects
+- Futuristic Cyber-Glass UI
+
+-------------------------------------------------------------------------------
+## 🛠️ Tech Stack
+- HTML5
+- LocalStorage persistence
+
+## 📦 Installation
+- Clone
+  
+      git clone https://github.com/so-hel/CyProHarvester.git
+
+- Navigate into the CyProHarvester folder.
+
+      cd CyProHarvester
+      
+-------------------------------------------------------------------------------
+## 🌍 Live Demo
+CyProHarvester Online
+
+-------------------------------------------------------------------------------
+## 🤝 Contributing
+Pull requests are welcome! Please open issues to suggest new project blueprints.
+
+-------------------------------------------------------------------------------
+## 📜 License
+GNU GPLv3
+
+-------------------------------------------------------------------------------
+## 👨‍💻 Author
+**Sohel Shaik**  
+GitHub: Hell-Mava  
+LinkedIn: https://www.linkedin.com/in/sohel-shaik-894288282/
