@@ -2,11 +2,11 @@
   
 # 🛡️ CyProHarvester (CPH)
  Harvesting Cyber Ideas for the Next Generation
- ![Uploading CyPoHarvester.png…]()
 
 [![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://so-hel.github.io/CyProHarvester/)
 [![License](https://img.shields.io/badge/license-GPLv3-green)](LICENSE)
 
+<img width="2048" height="818" alt="CyPoHarvester" src="https://github.com/user-attachments/assets/bd99f725-98dc-472e-be82-f3ef1eccd423" />
 </div>
 
 -------------------------------------------------------------------------------
