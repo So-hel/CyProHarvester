@@ -12,21 +12,35 @@ Cybersecurity Project Ideation & Learning Dashboard
 -------------------------------------------------------------------------------
 
 ## 🚀 Overview
-**CyProHarvester is a frontend-based cybersecurity project ideation dashboard designed to help learners and researchers explore offensive and defensive security concepts through structured project ideas.**
+**CyProHarvester is a frontend-based cybersecurity project ideation and exploration platform built to help students and learners discover meaningful project ideas across offensive and defensive security domains.**
 
-The platform focuses on **inspiration, organization, and exploration** of cybersecurity topics using a futuristic cyber-themed interface.
+The goal of CyProHarvester is to **spark curiosity and independent thinking** by presenting structured, high-level project concepts that learners can adapt, extend, or simplify based on their interests and skill level.
+
+-------------------------------------------------------------------------------
+
+## 🎯 Purpose
+Cybersecurity students often struggle to find original, practical project ideas.  
+CyProHarvester exists to solve that problem by acting as a **starting point**, not a finished solution.
+
+Each project listed is:
+- A conceptual blueprint
+- A learning-oriented idea
+- A foundation for further customization
 
 -------------------------------------------------------------------------------
 
 ## 🔑 Features
-- Curated cybersecurity project ideas (offensive & defensive concepts)
-- Interactive dashboard-style UI
-- Project idea browsing and exploration
+- Curated cybersecurity project ideas (offensive & defensive domains)
+- Categorized exploration of project concepts
+- Interactive dashboard-style interface
 - LocalStorage-based saving for selected ideas
-- Futuristic Cyber-Glass themed interface
-- Beginner-friendly and lightweight (no backend required)
+- Futuristic Cyber-Glass themed UI
+- Lightweight and beginner-friendly (no backend required)
 
-> ⚠️ Note: CyProHarvester is an ideation and learning tool. It does not perform live scanning, exploitation, OSINT collection, or automated security testing.
+> ⚠️ **Disclaimer:**  
+> CyProHarvester provides **conceptual project ideas only**.  
+> It does **not** perform live scanning, exploitation, OSINT collection, reverse engineering, or automated security testing.  
+> All projects are intended for **academic, simulated, or lab-based environments**.
 
 -------------------------------------------------------------------------------
 
@@ -34,7 +48,7 @@ The platform focuses on **inspiration, organization, and exploration** of cybers
 - HTML5
 - CSS3
 - JavaScript
-- Browser LocalStorage (for saved ideas)
+- Browser LocalStorage (for saving ideas)
 
 -------------------------------------------------------------------------------
 
